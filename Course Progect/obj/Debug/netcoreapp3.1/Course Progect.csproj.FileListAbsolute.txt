@@ -1,0 +1,19 @@
+C:\Users\Яша\source\repos\Course Progect\Course Progect\bin\Debug\netcoreapp3.1\Course Progect.exe
+C:\Users\Яша\source\repos\Course Progect\Course Progect\bin\Debug\netcoreapp3.1\Course Progect.deps.json
+C:\Users\Яша\source\repos\Course Progect\Course Progect\bin\Debug\netcoreapp3.1\Course Progect.runtimeconfig.json
+C:\Users\Яша\source\repos\Course Progect\Course Progect\bin\Debug\netcoreapp3.1\Course Progect.runtimeconfig.dev.json
+C:\Users\Яша\source\repos\Course Progect\Course Progect\bin\Debug\netcoreapp3.1\Course Progect.dll
+C:\Users\Яша\source\repos\Course Progect\Course Progect\bin\Debug\netcoreapp3.1\Course Progect.pdb
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\Course Progect.csprojAssemblyReference.cache
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\Course Progect_MarkupCompile.cache
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\Course Progect_MarkupCompile.lref
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\Course Progect.g.resources
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\Course Progect.csproj.CoreCompileInputs.cache
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\Course Progect.AssemblyInfoInputs.cache
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\Course Progect.AssemblyInfo.cs
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\Course Progect.dll
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\Course Progect.pdb
+C:\Users\Яша\source\repos\Course Progect\Course Progect\obj\Debug\netcoreapp3.1\Course Progect.genruntimeconfig.cache
