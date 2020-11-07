@@ -6,44 +6,28 @@
         xmlns:local="clr-namespace:Course_Progect"
         mc:Ignorable="d"
         Title="" MaxHeight="573" MaxWidth="800" MinHeight="573" MinWidth="800">
+
     <Grid>
-        <ScrollViewer Margin="0,35,628,0">
-            <StackPanel Height="942" Width="200" Margin="-580,0,-580,0">
-                <Label Margin="30,10,1,1" Content="ЧАТЫ:" HorizontalAlignment="Left" FontSize="17" Width="151" Height="35"/>
-                <Button x:Name="Chat_Button1" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button2" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button3" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button4" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button5" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button6" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button7" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button8" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button9" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button10" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button12" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button13" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button14" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button15" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button16" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button17" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button18" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button19" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button20" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button21" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button22" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button23" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button24" Margin="1,10,1,1" Height="20" Width="130"/>
-                <Button x:Name="Chat_Button25" Margin="1,10,1,1" Height="20" Width="130"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="3.6*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0">
+            <StackPanel Margin="0,35,628,0">
+                <Label Margin="7,10,1,1" Content="ЧАТЫ:" HorizontalAlignment="Left" FontSize="17" Width="157" Height="35"/>
+                <ListBox Height='165' Width='169' RenderTransformOrigin="0.5,0.5"/>
             </StackPanel>
-        </ScrollViewer>
-        <ScrollViewer Margin="248,0,0,87">
-            <StackPanel>
-                <TextBox Text="TextBox" TextWrapping="Wrap" Width="250" Height='auto' Margin="0,0,0,0"/>
-            </StackPanel>
-        </ScrollViewer>
-        <Label Content="МЕССЕНДЖЕР:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Width="148" Height="35"/>
-        <TextBox HorizontalAlignment="Left" Margin="248,475,0,0" TextWrapping="Wrap" VerticalAlignment="Top" AcceptsReturn="True" Width="250" Height='59'/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="520,475,0,0" VerticalAlignment="Top" Width="40" Height="40"/>
-        <Rectangle HorizontalAlignment="Left" Height="499" Margin="0,35,0,0" Stroke="Black" VerticalAlignment="Top" Width="172"/>
+            <Label Content="МЕССЕНДЖЕР:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Width="148" Height="35"/>
+            <Rectangle HorizontalAlignment="Left" Height="522" Margin="0,35,0,0" Stroke="Black" VerticalAlignment="Top" Width="172"/>
+        </Grid>
+
+        <Grid Grid.Column="2">
+
+            <TextBox HorizontalAlignment="Left" Margin="63,478,0,0" TextWrapping="Wrap" VerticalAlignment="Top" AcceptsReturn="True" Width="250" Height='69'/>
+            <Button Content="Button" HorizontalAlignment="Left" Margin="342,478,0,0" VerticalAlignment="Top" Width="40" Height="40"/>
+        </Grid>
     </Grid>
+
 </Window>
