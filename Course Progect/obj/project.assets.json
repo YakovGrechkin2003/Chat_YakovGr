@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Яша\\source\\repos\\Course Progect\\Course Progect\\Course Progect.csproj",
+      "projectUniqueName": "D:\\All\\Chat_YakovGr\\Course Progect\\Course Progect.csproj",
       "projectName": "Course Progect",
-      "projectPath": "C:\\Users\\Яша\\source\\repos\\Course Progect\\Course Progect\\Course Progect.csproj",
+      "projectPath": "D:\\All\\Chat_YakovGr\\Course Progect\\Course Progect.csproj",
       "packagesPath": "C:\\Users\\Яша\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Яша\\source\\repos\\Course Progect\\Course Progect\\obj\\",
+      "outputPath": "D:\\All\\Chat_YakovGr\\Course Progect\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Яша\\AppData\\Roaming\\NuGet\\NuGet.Config",

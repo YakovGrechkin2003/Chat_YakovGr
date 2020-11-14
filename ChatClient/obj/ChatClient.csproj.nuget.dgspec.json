@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Яша\\source\\repos\\Course Progect\\ChatClient\\ChatClient.csproj": {}
+    "D:\\All\\Chat_YakovGr\\ChatClient\\ChatClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Яша\\source\\repos\\Course Progect\\ChatClient\\ChatClient.csproj": {
+    "D:\\All\\Chat_YakovGr\\ChatClient\\ChatClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Яша\\source\\repos\\Course Progect\\ChatClient\\ChatClient.csproj",
+        "projectUniqueName": "D:\\All\\Chat_YakovGr\\ChatClient\\ChatClient.csproj",
         "projectName": "ChatClient",
-        "projectPath": "C:\\Users\\Яша\\source\\repos\\Course Progect\\ChatClient\\ChatClient.csproj",
+        "projectPath": "D:\\All\\Chat_YakovGr\\ChatClient\\ChatClient.csproj",
         "packagesPath": "C:\\Users\\Яша\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Яша\\source\\repos\\Course Progect\\ChatClient\\obj\\",
+        "outputPath": "D:\\All\\Chat_YakovGr\\ChatClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Яша\\AppData\\Roaming\\NuGet\\NuGet.Config",
